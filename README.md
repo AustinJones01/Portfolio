@@ -69,4 +69,4 @@ Portfolio/
    ```bash
    git clone https://github.com/AustinJones01/Portfolio.git
    ```
-2. Open any project's `index.html` in a modern web browser. For the brand mockup, open `brand-mockup/index.html` and keep `styles.css` in the
+2. Open any project's `index.html` in a modern web browser. For the brand mockup, open `brand-mockup/index.html` and keep `styles.css` in the subfolder
