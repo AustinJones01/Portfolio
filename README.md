@@ -43,11 +43,15 @@ The site walks a visitor through the brand in order: a manifesto, proof of resul
 
 ### Project Structure
 
+### Project Structure
+
 ```
 Portfolio/
-└── brand-mockup/
-    ├── index.html    # Page markup
-    └── styles.css    # All styling
+├── index.html          ← your main portfolio page (confirm name)
+├── brand-mockup/
+│   ├── index.html      # FREE WORLD page markup
+│   └── styles.css      # FREE WORLD styling
+└── ...                 ← other class projects and files
 ```
 
 ### Known Limitations
