@@ -7,7 +7,7 @@ This repository is a collection of projects I've created in my classes at **CWU*
 | Project | Assembly | Description |
 |---|---|---|
 | [FREE WORLD: Brand Site Concept](https://austinjones01.github.io/Portfolio/brand-mockup/) | Responsive personal-brand website built with semantic HTML5 and custom CSS | Personal brand mock website |
-| [Austin Jones Portfolio]([https://austinjones01.github.io/Portfolio/index.html](https://austinjones01.github.io/Portfolio/css/style.css)) | Responsive portfolio site built with semantic HTML5 and CSS | Personal portfolio showcasing my CWU class projects |
+| [Austin Jones Portfolio]((https://austinjones01.github.io/Portfolio/css/style.css)) | Responsive portfolio site built with semantic HTML5 and CSS | Personal portfolio showcasing my CWU class projects |
 | [Blog Mockup](https://austinjones01.github.io/Portfolio/blog) | Responsive blog layout built with semantic HTML5 and CSS | Blog mock website |
 
 *More projects will be added as I complete them.*
