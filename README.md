@@ -1,6 +1,6 @@
 # FREE WORLD: Brand Site Concept & CWU PORTFOLIO
 
-A responsive, single-page brand website for **FREE WORLD**, a fictional discipline-focused apparel and fitness brand. Built with semantic HTML5 and custom CSS as a demonstration of production-ready layout, accessibility, and personal-brand design.
+A responsive, single-page brand website for **FREE WORLD** & **CWU PROJECTS**, a fictional discipline-focused apparel and fitness brand. Built with semantic HTML5 and custom CSS as a demonstration of production-ready layout, accessibility, and personal-brand design.
 
 > **Concept project.** The product images are AI-generated mockups, and the Results photos are placeholder silhouettes. No real products or client results are shown.
 
