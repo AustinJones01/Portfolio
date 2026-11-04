@@ -1,10 +1,10 @@
 # Austin Jones | Portfolio
 
-This repository is a collection of projects I've created in my classes at **CWU**. Each project lives in its own folder, with its own details below.
+This repository is a collection of projects I've created in my classes at **CWU** along with personal ones. Each project lives in its own folder, with its own details below.
 
 ## Projects
 
-| Project | Course | Description |
+| Project || Description |
 |---|---|---|
 | [FREE WORLD: Brand Site Concept](brand-mockup/) | [Course name] | Responsive personal-brand website built with semantic HTML5 and custom CSS |
 
