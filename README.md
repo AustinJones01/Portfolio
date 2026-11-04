@@ -13,5 +13,8 @@ A clean, responsive frontend web application built using semantic HTML. This pro
 1. Clone this repository:
 ```bash
 git clone https://github.com
+git add brand-mockup/
+git commit -m "Add FREE WORLD brand mockup"
+git push
 
 2. Open the `index.html` file directly in any modern web browser to view the project locally.
