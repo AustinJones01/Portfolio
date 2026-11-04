@@ -6,7 +6,7 @@ This repository is a collection of projects I've created in my classes at **CWU*
 
 | Project || Description |
 |---|---|---|
-| [FREE WORLD: Brand Site Concept](brand-mockup/) | Responsive personal-brand website built with semantic HTML5 and custom CSS | Personal brand concept
+| [FREE WORLD: Brand Site Concept](brand-mockup/) | Responsive personal-brand website built with semantic HTML5 and custom CSS | Personal brand mock website
 
 *More projects will be added as I complete them.*
 
