@@ -43,7 +43,6 @@ The site walks a visitor through the brand in order: a manifesto, proof of resul
 * **Lightweight Stack:** No frameworks, no build step, and only a few lines of vanilla JavaScript. The only external request is Google Fonts.
 * **Inline SVG Icons:** Social icons are embedded directly, so there is no icon-font dependency.
 
-### Project Structure
 
 ### Project Structure
 
